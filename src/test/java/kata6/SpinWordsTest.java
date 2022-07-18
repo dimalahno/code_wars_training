@@ -1,8 +1,7 @@
-package kata6_test;
+package kata6;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import kata6.SpinWords;
 import org.junit.jupiter.api.Test;
 
 public class SpinWordsTest {
