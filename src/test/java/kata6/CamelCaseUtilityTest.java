@@ -1,8 +1,7 @@
 package kata6;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import kata6.CamelCaseUtility;
 import org.junit.jupiter.api.Test;
 
 public class CamelCaseUtilityTest {
